@@ -1,4 +1,4 @@
-;(function($) {
+(function($) {
 
   $.fn.sumtr = function(options) {
 
